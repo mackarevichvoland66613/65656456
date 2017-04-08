@@ -1,0 +1,41 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1491607942311">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MyApplication/app/src/main/java/com/example/david/myapplication/MainActivity.java" timestamp="1491634570154" />
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/Main.java" timestamp="1491607219140">
+        <mark key="[" line="3" column="40" />
+      </file>
+      <file name="/fragment.java" timestamp="1491634056685">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/MyApplication3/app/src/main/java/com/example/david/myapplication/MainActivity.java" timestamp="1491634287211">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers />
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
