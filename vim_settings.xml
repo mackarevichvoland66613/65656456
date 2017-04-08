@@ -12,23 +12,10 @@
       <file name="$USER_HOME$/IdeaProjects/Test2/src/qq.java" timestamp="1491650054446">
         <mark key="[" line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Test2/src/PiCalculatorUnit.java" timestamp="1491649292472">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled/src/com/company/Solution.java" timestamp="1491638935902">
-        <mark key="[" line="13" column="76" />
-        <mark key="]" line="13" column="76" />
-        <mark key="." line="13" column="76" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/filebit/src/Main.java" timestamp="1491654470651">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Test2/src/Calculator.java" timestamp="1491649237127">
-        <mark key="[" line="11" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/Test4/src/Integral.java" timestamp="1491659114394">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Test3/src/Main.java" timestamp="1491658351869">
         <mark key="[" line="0" column="0" />
@@ -41,10 +28,46 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Test4/src/Trap.java" timestamp="1491659192334">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Test2/src/PiCalculatorUnit.java" timestamp="1491649292472">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Test4/src/Simson.java" timestamp="1491659489061">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Test4/src/Main.java" timestamp="1491659754312">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/src/com/company/Solution.java" timestamp="1491638935902">
+        <mark key="[" line="13" column="76" />
+        <mark key="]" line="13" column="76" />
+        <mark key="." line="13" column="76" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Test4/src/Simpson.java" timestamp="1491660017398">
+        <mark key="[" line="3" column="48" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/filebit/src/Main.java" timestamp="1491654470651">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Test2/src/Calculator.java" timestamp="1491649237127">
+        <mark key="[" line="11" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Main.java" timestamp="1491607219140">
         <mark key="[" line="3" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1491653593000">
+      <file name="/fragment.java" timestamp="1491659460049">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/MyApplication3/app/src/main/java/com/example/david/myapplication/MainActivity.java" timestamp="1491634287211">
@@ -59,38 +82,38 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyB2b2lkIHBpU3BpZ290KGludCApIHsKCiAgICB9</text>
+        <text encoding="base64">CnB1YmxpYyBjbGFzcyBUcmFwIHsKfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>import org.omg.CORBA.Object;</text>
+        <text>}</text>
       </register>
-      <register name="2" type="8">
-        <text>1</text>
+      <register name="2" type="4">
+        <text encoding="base64">CnB1YmxpYyBjbGFzcyBJbnRlZ3JhbCB7Cn0=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgcGlTcGlnb3QoT2JqZWN0IHBpU3BpZ290KSB7CiAgICAgCn0=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyB2b2lkIHBpU3BpZ290KGludCApIHsKCiAgICB9</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIH0KICAgIH0=</text>
+      <register name="4" type="8">
+        <text>1</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgcGlTcGlnb3QoT2JqZWN0IHBpU3BpZ290KSB7CiAgICAgCn0=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIH0KICAgIH0=</text>
+      </register>
+      <register name="7" type="4">
         <text>piSpigot(Object p0) {
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgcGlTcGlnb3Q7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBTdHJpbmcgcGlTcGlnb3QoZmluYWwgaW50IG4pIHsKICAgICAgICAgICAgLy8g7eDp5OXt7fvlIPbo9PD7IPHw4OfzIOblIOHz5OXsIOfg7+jx++Lg8vwg4iBTdHJpbmdCdWlsZGVyCiAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgcGkgPSBuZXcgU3RyaW5nQnVpbGRlcihuKTsKICAgICAgICAgICAgaW50IGJveGVzID0gbiAqIDEwIC8gMzsJLy8g8ODn7OXwIOzg8fHo4uAKICAgICAgICAgICAgaW50IHJlbWluZGVyc1tdID0gbmV3IGludFtib3hlc107CiAgICAgICAgICAgIC8vIOjt6Pbo4Ovo5+jw8+XsIOzg8ejiIOTi7unq4OzoCiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYm94ZXM7IGkrKykgewogICAgICAgICAgICAgICAgcmVtaW5kZXJzW2ldID0gMjsKICAgICAgICAgICAgfQogICAgICAgICAgICBpbnQgaGVsZERpZ2l0cyA9IDA7ICAgIC8vIPH3uPL36Oog4vDl7OXt7e4g7eXk5enx8uLo8uXr/O379SD26PTwCiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbjsgaSsrKSB7CiAgICAgICAgICAgICAgICBpbnQgY2FycmllZE92ZXIgPSAwOyAgICAvLyDv5fDl7e7xIO3gIPHr5eTz/vno6SD44OMKICAgICAgICAgICAgICAgIGludCBzdW0gPSAwOwogICAgICAgICAgICAgICAgZm9yIChpbnQgaiA9IGJveGVzIC0gMTsgaiA+PSAwOyBqLS0pIHsKICAgICAgICAgICAgICAgICAgICByZW1pbmRlcnNbal0gKj0gMTA7CiAgICAgICAgICAgICAgICAgICAgc3VtID0gcmVtaW5kZXJzW2pdICsgY2FycmllZE92ZXI7CiAgICAgICAgICAgICAgICAgICAgaW50IHF1b3RpZW50ID0gc3VtIC8gKGogKiAyICsgMSk7ICAgLy8g8OXn8+v88uDyIOTl6+Xt6P8g8fPs7Psg7eAg5+3g7OXt4PLl6/wKICAgICAgICAgICAgICAgICAgICByZW1pbmRlcnNbal0gPSBzdW0gJSAoaiAqIDIgKyAxKTsgICAvLyDu8fLg8u7qIO7yIOTl6+Xt6P8g8fPs7Psg7eAg5+3g7OXt4PLl6/wKICAgICAgICAgICAgICAgICAgICBjYXJyaWVkT3ZlciA9IHF1b3RpZW50ICogajsgICAvLyBqIC0g9+jx6+jy5ev8CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZW1pbmRlcnNbMF0gPSBzdW0gJSAxMDsKICAgICAgICAgICAgICAgIGludCBxID0gc3VtIC8gMTA7CS8vIO3u4uD/IPbo9PDgIPfo8evgIM/oCiAgICAgICAgICAgICAgICAvLyDw5ePz6+jw7uLq4CDt5eTl6fHy4ujy5ev87fv1IPbo9PAKICAgICAgICAgICAgICAgIGlmIChxID09IDkpIHsKICAgICAgICAgICAgICAgICAgICBoZWxkRGlnaXRzKys7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKHEgPT0gMTApIHsKICAgICAgICAgICAgICAgICAgICBxID0gMDsKICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBrID0gMTsgayA8PSBoZWxkRGlnaXRzOyBrKyspIHsKICAgICAgICAgICAgICAgICAgICAgICAgaW50IHJlcGxhY2VkID0gSW50ZWdlci5wYXJzZUludChwaS5zdWJzdHJpbmcoaSAtIGssIGkgLSBrICsgMSkpOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAocmVwbGFjZWQgPT0gOSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVwbGFjZWQgPSAwOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVwbGFjZWQrKzsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBwaS5kZWxldGVDaGFyQXQoaSAtIGspOwogICAgICAgICAgICAgICAgICAgICAgICBwaS5pbnNlcnQoaSAtIGssIHJlcGxhY2VkKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgaGVsZERpZ2l0cyA9IDE7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGhlbGREaWdpdHMgPSAxOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcGkuYXBwZW5kKHEpOwkvLyDx7vXw4O3/5ewg7eDp5OXt7fP+IPbo9PDzCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKHBpLmxlbmd0aCgpID49IDIpIHsKICAgICAgICAgICAgICAgIHBpLmluc2VydCgxLCAnLicpOwkvLyDk7uHg4uv/5ewg4iDx8vDu9+rzIPLu9+rzIO/u8evlIDMKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gcGkudG9TdHJpbmcoKTsKICAgICAgICB9CiAgICB9Cn0=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IC8vIFRPRE8gQXV0by1nZW5lcmF0ZWQgbWV0aG9kIHN0dWIKCiAgICAgICAgaW50IGFbXSA9IHsgMTAwMDAwMDAwMH07CgogICAgICAgIENhbGN1bGF0b3IgY2FsYyA9IG5ldyBDYWxjdWxhdG9yKGEpOwoKICAgICAgICBjYWxjLkV4ZWN1dGUoKTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNhbGMpOw==</text>
-      </register>
       <register name="-" type="4">
-        <text>import org.omg.CORBA.Object;</text>
+        <text>}</text>
       </register>
     </registers>
     <search>
