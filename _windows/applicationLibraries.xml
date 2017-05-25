@@ -1,23 +1,9 @@
 <application>
   <component name="libraryTable">
     <library name="CppTools">
-      <ANNOTATIONS>
-        <root url="jar://$USER_HOME$/Downloads/Архивы/CppTools.zip!/" />
-      </ANNOTATIONS>
-      <CLASSES>
-        <root url="jar://$USER_HOME$/Downloads/Архивы/CppTools.zip!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$USER_HOME$/Downloads/Архивы/CppTools.zip!/" />
-      </JAVADOC>
-      <NATIVE>
-        <root url="jar://$USER_HOME$/Downloads/Архивы/CppTools.zip!/" />
-      </NATIVE>
-      <SOURCES>
-        <root url="jar://$USER_HOME$/Downloads/Архивы/CppTools.zip!/" />
-      </SOURCES>
-      <jarDirectory url="jar://$USER_HOME$/Downloads/Архивы/CppTools.zip!/" recursive="false" />
-      <jarDirectory url="jar://$USER_HOME$/Downloads/Архивы/CppTools.zip!/" recursive="false" type="SOURCES" />
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
   </component>
 </application>
