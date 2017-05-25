@@ -31,6 +31,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/wqw/src/main/java/fsd.java" timestamp="1495732923611">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled2/src/Main.java" timestamp="1495729832403">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,12 +114,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled3/src/Main.java" timestamp="1495732682086">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/dfsgfdg/src/main/java/JsonUtils.java" timestamp="1495728555235">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -158,13 +157,21 @@
       <jump line="1" column="19" filename="$USER_HOME$/IdeaProjects/1/src/Main.java" />
     </jumps>
     <registers>
-      <register name="1" type="8">
-        <text>&quot;http://www.oddsportal.com/soccer/spain/primera-division/rayo-vallecano-valencia-d4LVsDnC/&quot;</text>
+      <register name="1" type="4">
+        <text>ublic class fsd {
+}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>public static void main(String[] args) {</text>
+        <text>ublic class fsd {
+}</text>
       </register>
       <register name="2" type="4">
+        <text encoding="base64">aW1wb3J0IG9yZy53M2MuZG9tLkRvY3VtZW50OwppbXBvcnQgamF2YXguKjsKCmltcG9ydCBqYXZheC5sYW5nLm1vZGVsLnV0aWwuRWxlbWVudHM7CmltcG9ydCBqYXZheC5zd2luZy50ZXh0LkVsZW1lbnQ7CmltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwppbXBvcnQgamF2YS5zcWwuQ29ubmVjdGlvbjsKaW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKCnB1YmxpYyBjbGFzcyBNYWluIHsKCgogICAgICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVU0VSX0FHRU5UID0gIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS81Ny4wLjI5ODcuMTMzIFNhZmFyaS81MzcuMzYiOwogICAgICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBCQVNFX1VSTCA9ICJodHRwOi8vYjJiLmZoc2Frcy5wbCI7CgogICAgICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBmaW5hbCBDb25uZWN0aW9uLlJlc3BvbnNlIHJlc3BvbnNlID0gSnNvdXAuY29ubmVjdChCQVNFX1VSTCArICIvZW4vY2F0ZWdvcnkvYmVsbHMiKS51c2VyQWdlbnQoVVNFUl9BR0VOVCkuZXhlY3V0ZSgpOwogICAgICAgICAgICAgICAgZmluYWwgRG9jdW1lbnQgZG9jID0gSnNvdXAucGFyc2UocmVzcG9uc2UuYm9keSgpKTsKICAgICAgICAgICAgICAgIEVsZW1lbnRzIGVsZW1lbnRzID0gZG9jLnNlbGVjdCgiZGl2LmludC1pdGVtIik7CiAgICAgICAgICAgICAgICBmaW5hbCBMaXN0PEl0ZW1Nb2RlbD4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICAgICAgZm9yIChFbGVtZW50IGUgOiBlbGVtZW50cykgewogICAgICAgICAgICAgICAgICAgIGZpbmFsIEl0ZW1Nb2RlbCBtb2RlbCA9IG5ldyBJdGVtTW9kZWwoKTsKICAgICAgICAgICAgICAgICAgICBtb2RlbC50aXRsZSA9IGUuc2VsZWN0KCJoMi5zcGFuMTIiKS50ZXh0KCk7CiAgICAgICAgICAgICAgICAgICAgbW9kZWwuc3ViVGl0bGUgPSBlLnNlbGVjdCgic3Bhbi5pbnQtYm9sZCIpLnRleHQoKTsKICAgICAgICAgICAgICAgICAgICBtb2RlbC5kZXRhaWxzVXJsID0gQkFTRV9VUkwgKyBlLnNlbGVjdCgiYS5idG4tZGV0YWlscyIpLmF0dHIoImhyZWYiKTsKICAgICAgICAgICAgICAgICAgICBtb2RlbC50aHVtYlVybCA9IEJBU0VfVVJMICsgZS5zZWxlY3QoImRpdi5pbnQtaXRlbS1pbWFnZSBpbWciKS5hdHRyKCJzcmMiKTsKICAgICAgICAgICAgICAgICAgICBsaXN0LmFkZChtb2RlbCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgfQoKCiAgICAgICAgc3RhdGljIGNsYXNzIEl0ZW1Nb2RlbCB7CiAgICAgICAgICAgIFN0cmluZyB0aXRsZTsKICAgICAgICAgICAgU3RyaW5nIHN1YlRpdGxlOwogICAgICAgICAgICBTdHJpbmcgZGV0YWlsc1VybDsKICAgICAgICAgICAgU3RyaW5nIHRodW1iVXJsOw==</text>
+      </register>
+      <register name="3" type="8">
+        <text>&quot;http://www.oddsportal.com/soccer/spain/primera-division/rayo-vallecano-valencia-d4LVsDnC/&quot;</text>
+      </register>
+      <register name="4" type="4">
         <text>public class Main {
 
     public static void main(String[] args) {
@@ -172,10 +179,10 @@
     }
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">aHR0cDovL2FwaS5vcGVud2VhdGhlcm1hcC5vcmcvZGF0YS8yLjUvd2VhdGhlcj9xPUxvbmRvbix1ayIgKwogICAgICAgICAgICAgICAgICAgICImdW5pdHM9bWV0cmljJmFwcGlkPTI0MWRlOTM0OTcyMWRmOTU5ZDg4MDBjMTJjYTRmMWYz</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>package ua.com.prologistic.app;
 
 /**
@@ -184,31 +191,23 @@
 public class Main {
 }</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>/**
  * Created by David on 25.05.2017.
  */
 public class JsonUtils {
 }</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>ublic class fwfds {
 }</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>public class adfd {
 }</text>
       </register>
-      <register name="8" type="4">
-        <text>http://example.com:80/docs/books/tutorial&quot;
-                + &quot;/index.html?name=networking#</text>
-      </register>
-      <register name="9" type="4">
-        <text>public class fgdfg {
-}</text>
-      </register>
       <register name="-" type="4">
-        <text>public static void main(String[] args) {</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb2RlXD4=</text>
