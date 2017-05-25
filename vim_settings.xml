@@ -31,6 +31,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled2/src/Main.java" timestamp="1495729832403">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Test4/src/Main.java" timestamp="1491659754312">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -121,6 +124,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled2/src/IfHtml.java" timestamp="1495730078823">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+        <mark key="^" line="12" column="30" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/grapf/src/javaapplication1/Main.java" timestamp="1491661438538">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="19" />
@@ -143,13 +152,24 @@
       <jump line="1" column="19" filename="$USER_HOME$/IdeaProjects/1/src/Main.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">aHR0cDovL2FwaS5vcGVud2VhdGhlcm1hcC5vcmcvZGF0YS8yLjUvd2VhdGhlcj9xPUxvbmRvbix1ayIgKwogICAgICAgICAgICAgICAgICAgICImdW5pdHM9bWV0cmljJmFwcGlkPTI0MWRlOTM0OTcyMWRmOTU5ZDg4MDBjMTJjYTRmMWYz</text>
+      <register name="1" type="8">
+        <text>&quot;http://www.oddsportal.com/soccer/spain/primera-division/rayo-vallecano-valencia-d4LVsDnC/&quot;</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aHR0cDovL2FwaS5vcGVud2VhdGhlcm1hcC5vcmcvZGF0YS8yLjUvd2VhdGhlcj9xPUxvbmRvbix1ayIgKwogICAgICAgICAgICAgICAgICAgICImdW5pdHM9bWV0cmljJmFwcGlkPTI0MWRlOTM0OTcyMWRmOTU5ZDg4MDBjMTJjYTRmMWYz</text>
+      <register name="&quot;" type="8">
+        <text>&quot;http://www.oddsportal.com/soccer/spain/primera-division/rayo-vallecano-valencia-d4LVsDnC/&quot;</text>
       </register>
       <register name="2" type="4">
+        <text>public class Main {
+
+    public static void main(String[] args) {
+        System.out.println(&quot;Hello World!&quot;);
+    }
+}</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">aHR0cDovL2FwaS5vcGVud2VhdGhlcm1hcC5vcmcvZGF0YS8yLjUvd2VhdGhlcj9xPUxvbmRvbix1ayIgKwogICAgICAgICAgICAgICAgICAgICImdW5pdHM9bWV0cmljJmFwcGlkPTI0MWRlOTM0OTcyMWRmOTU5ZDg4MDBjMTJjYTRmMWYz</text>
+      </register>
+      <register name="4" type="4">
         <text>package ua.com.prologistic.app;
 
 /**
@@ -158,34 +178,28 @@
 public class Main {
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>/**
  * Created by David on 25.05.2017.
  */
 public class JsonUtils {
 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>ublic class fwfds {
 }</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>public class adfd {
 }</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>http://example.com:80/docs/books/tutorial&quot;
                 + &quot;/index.html?name=networking#</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>public class fgdfg {
 }</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
