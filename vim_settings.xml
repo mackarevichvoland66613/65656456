@@ -109,6 +109,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled3/src/Main.java" timestamp="1495732682086">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/dfsgfdg/src/main/java/JsonUtils.java" timestamp="1495728555235">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -155,8 +161,8 @@
       <register name="1" type="8">
         <text>&quot;http://www.oddsportal.com/soccer/spain/primera-division/rayo-vallecano-valencia-d4LVsDnC/&quot;</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>&quot;http://www.oddsportal.com/soccer/spain/primera-division/rayo-vallecano-valencia-d4LVsDnC/&quot;</text>
+      <register name="&quot;" type="4">
+        <text>public static void main(String[] args) {</text>
       </register>
       <register name="2" type="4">
         <text>public class Main {
@@ -202,7 +208,7 @@ public class JsonUtils {
 }</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>public static void main(String[] args) {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOb2RlXD4=</text>
